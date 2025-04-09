@@ -5,11 +5,6 @@ import logging
 from telethon import TelegramClient, events
 import deepl  # DeepL 번역기 라이브러리
 from dotenv import load_dotenv
-import asyncio
-import sys
-
-if sys.platform == 'darwin':
-    asyncio.set_event_loop_policy(asyncio.DefaultEventLoopPolicy())
 
 # 🔹 환경 변수 로드
 load_dotenv(dotenv_path='/Users/sonjuwon/Desktop/python workplace/.env')
@@ -34,7 +29,7 @@ LINE_ACCESS_TOKEN = os.getenv("LINE_ACCESS_TOKEN")
 USER_ID = os.getenv("USER_ID")  # 메시지를 받을 사용자의 LINE ID
 
 # 🔹 모니터링할 텔레그램 채널 ID 
-MONITOR_CHANNELS = [-1001219894832, -1001386345244, -1001363666182, -1001606488817]
+MONITOR_CHANNELS = [-1001219894832, -1001202540487,-1001363666182, -1001606488817, -1001386345244]
 
 # 🔹 필터링할 키워드
 FILTER_KEYWORDS = ["코인", "체인", "거래", "입출금", "코인" , "마켓추가", "거래지원"]

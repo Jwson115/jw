@@ -11,3 +11,4 @@ with TelegramClient("my_session", API_ID, API_HASH) as client:
     for dialog in dialogs:
         if dialog.is_channel:  # 채널만 필터링
             print(f"채널 이름: {dialog.name}, 채널 ID: {dialog.id}")
+88
