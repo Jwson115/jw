@@ -1,0 +1,239 @@
+2025-04-09 23:34:47,097 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 23:34:49,606 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 23:34:59,591 - INFO - Phone migrated to 5
+2025-04-09 23:34:59,953 - INFO - Reconnecting to new data center 5
+2025-04-09 23:35:00,312 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-09 23:35:00,313 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-09 23:35:00,313 - INFO - Connecting to 91.108.56.178:443/TcpFull...
+2025-04-09 23:35:01,540 - INFO - Connection to 91.108.56.178:443/TcpFull complete!
+2025-04-09 23:35:08,523 - INFO - 🚀 클라이언트 실행 중... 메시지를 기다리는 중...
+2025-04-09 23:39:55,302 - INFO - Disconnecting from 91.108.56.178:443/TcpFull...
+2025-04-09 23:39:55,304 - INFO - Disconnection from 91.108.56.178:443/TcpFull complete!
+2025-04-09 23:39:55,307 - INFO - Not disconnecting (already have no connection)
+2025-04-09 23:40:16,710 - INFO - Connecting to 91.108.56.178:443/TcpFull...
+2025-04-09 23:40:16,766 - INFO - Connection to 91.108.56.178:443/TcpFull complete!
+2025-04-09 23:40:17,504 - INFO - 🚀 클라이언트 실행 중... 메시지를 기다리는 중...
+2025-04-09 23:49:33,103 - INFO - Disconnecting from 91.108.56.178:443/TcpFull...
+2025-04-09 23:49:33,105 - INFO - Disconnection from 91.108.56.178:443/TcpFull complete!
+2025-04-09 23:49:33,109 - INFO - Not disconnecting (already have no connection)
+2025-04-09 23:59:56,904 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 23:59:58,973 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-10 00:00:11,747 - INFO - Phone migrated to 5
+2025-04-10 00:00:12,059 - INFO - Reconnecting to new data center 5
+2025-04-10 00:00:12,418 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-10 00:00:12,419 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-10 00:00:12,419 - INFO - Connecting to 91.108.56.178:443/TcpFull...
+2025-04-10 00:00:13,830 - INFO - Connection to 91.108.56.178:443/TcpFull complete!
+2025-04-10 00:00:21,116 - INFO - 🚀 클라이언트 실행 중... 메시지를 기다리는 중...
+2025-04-10 00:06:34,921 - INFO - Disconnecting from 91.108.56.178:443/TcpFull...
+2025-04-10 00:06:34,924 - INFO - Disconnection from 91.108.56.178:443/TcpFull complete!
+2025-04-10 00:06:34,928 - INFO - Not disconnecting (already have no connection)
+2025-04-10 00:09:13,074 - INFO - Connecting to 91.108.56.178:443/TcpFull...
+2025-04-10 00:09:13,128 - INFO - Connection to 91.108.56.178:443/TcpFull complete!
+2025-04-10 00:09:13,450 - INFO - 🚀 클라이언트 실행 중... 메시지를 기다리는 중...
+2025-04-10 00:09:38,355 - INFO - Got difference for account updates
+2025-04-10 00:09:38,679 - INFO - Got difference for account updates
+2025-04-10 00:09:38,994 - INFO - Got difference for account updates
+2025-04-10 00:12:46,314 - INFO - Disconnecting from 91.108.56.178:443/TcpFull...
+2025-04-10 00:12:46,316 - INFO - Disconnection from 91.108.56.178:443/TcpFull complete!
+2025-04-10 00:12:46,319 - INFO - Not disconnecting (already have no connection)
+2025-04-10 00:13:10,670 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-10 00:13:12,914 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-10 00:13:23,355 - INFO - Phone migrated to 5
+2025-04-10 00:13:23,619 - INFO - Reconnecting to new data center 5
+2025-04-10 00:13:23,905 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-10 00:13:23,906 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-10 00:13:23,907 - INFO - Connecting to 91.108.56.178:443/TcpFull...
+2025-04-10 00:13:25,287 - INFO - Connection to 91.108.56.178:443/TcpFull complete!
+2025-04-10 00:13:41,384 - INFO - 🚀 클라이언트 실행 중... 메시지를 기다리는 중...
+2025-04-10 00:16:05,153 - INFO - Disconnecting from 91.108.56.178:443/TcpFull...
+2025-04-10 00:16:05,157 - INFO - Disconnection from 91.108.56.178:443/TcpFull complete!
+2025-04-10 00:16:05,165 - INFO - Not disconnecting (already have no connection)
+2025-04-10 00:18:43,029 - INFO - Connecting to 91.108.56.178:443/TcpFull...
+2025-04-10 00:18:43,085 - INFO - Connection to 91.108.56.178:443/TcpFull complete!
+2025-04-10 00:18:43,588 - INFO - 🚀 클라이언트 실행 중... 메시지를 기다리는 중...
+2025-04-10 00:19:43,714 - INFO - 📩 수신된 메시지: [파키스탄, 잉여 전력 일부 BTC 채굴에 할당 계획] 파키스탄이 잉여 전력 일부를 비트코인 채굴 및 인공지능(AI) 데이터 센터에 할당할 계획이라고 로이터가 전했다. 파키스탄 당국은 여러 채굴 업체와 관련 내용을 논의한 것으로 전해졌다. 파키스탄 암호화폐 위원회는 최근 전략 고문으로 바이낸스 전 최고경영자(CEO) 자오창펑을 임명한 바 있다. https://coinness. com/news/1125355
+2025-04-10 00:19:43,716 - INFO - ✅ 필터링됨 - 메시지: [파키스탄, 잉여 전력 일부 BTC 채굴에 할당 계획] 파키스탄이 잉여 전력 일부를 비트코인 채굴 및 인공지능(AI) 데이터 센터에 할당할 계획이라고 로이터가 전했다. 파키스탄 당국은 여러 채굴 업체와 관련 내용을 논의한 것으로 전해졌다. 파키스탄 암호화폐 위원회는 최근 전략 고문으로 바이낸스 전 최고경영자(CEO) 자오창펑을 임명한 바 있다. https://coinness. com/news/1125355
+2025-04-10 00:19:43,718 - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2025-04-10 00:19:44,877 - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2025-04-10 00:19:44,877 - INFO - 📜 번역된 메시지: [巴基斯坦计划将部分剩余电力分配给比特币采矿业】据路透社报道，巴基斯坦正计划将部分剩余电力分配给比特币采矿业和人工智能（AI）数据中心。据报道，巴基斯坦当局已经与几家挖矿公司进行了讨论。巴基斯坦加密货币委员会最近任命 Binance 前首席执行官赵长鹏为战略顾问。https://coinness. com/news/1125355
+2025-04-10 00:19:45,196 - INFO - 📩 LINE 메시지 전송 성공: 📢 긴급 알림!
+
+🔹 원본: [파키스탄, 잉여 전력 일부 BTC 채굴에 할당 계획] 파키스탄이 잉여 전력 일부를 비트코인 채굴 및 인공지능(AI) 데이터 센터에 할당할 계획이라고 로이터가 전했다. 파키스탄 당국은 여러 채굴 업체와 관련 내용을 논의한 것으로 전해졌다. 파키스탄 암호화폐 위원회는 최근 전략 고문으로 바이낸스 전 최고경영자(CEO) 자오창펑을 임명한 바 있다. https://coinness. com/news/1125355
+🔹 번역: [巴基斯坦计划将部分剩余电力分配给比特币采矿业】据路透社报道，巴基斯坦正计划将部分剩余电力分配给比特币采矿业和人工智能（AI）数据中心。据报道，巴基斯坦当局已经与几家挖矿公司进行了讨论。巴基斯坦加密货币委员会最近任命 Binance 前首席执行官赵长鹏为战略顾问。https://coinness. com/news/1125355
+2025-04-10 00:22:43,590 - INFO - 📩 수신된 메시지: 엑스알피(XRP), 단기 보유자 손실 증가 ‘항복 조짐’ …상승 반전 신호 해석도 있어 #XRP #엑스알피 https://www. blockmedia. co. kr/archives/887196? utm_source=telegram&utm_medium=social
+2025-04-10 00:22:43,592 - INFO - ❌ 필터링되지 않음
+2025-04-10 00:35:09,617 - INFO - 📩 수신된 메시지: [SEC 위원장 후보 폴 앳킨스, 美 상원 본회의 표결 통과] 미국 증권거래위원회(SEC) 위원장 지명자 폴 앳킨스가 미국 상원 본회의 표결을 찬성 51:반대 45로 통과했다고 크립토인아메리카 진행자 엘리토어 테렛이 전했다. 향후 하원 최종 투표가 진행될 예정이다. https://coinness. com/news/1125357
+2025-04-10 00:35:09,619 - INFO - ✅ 필터링됨 - 메시지: [SEC 위원장 후보 폴 앳킨스, 美 상원 본회의 표결 통과] 미국 증권거래위원회(SEC) 위원장 지명자 폴 앳킨스가 미국 상원 본회의 표결을 찬성 51:반대 45로 통과했다고 크립토인아메리카 진행자 엘리토어 테렛이 전했다. 향후 하원 최종 투표가 진행될 예정이다. https://coinness. com/news/1125357
+2025-04-10 00:35:09,619 - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2025-04-10 00:35:11,873 - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2025-04-10 00:35:11,874 - INFO - 📜 번역된 메시지: [美国证券交易委员会（SEC）主席提名人保罗-阿特金斯（Paul Atkins）通过美国参议院投票]据 CryptoInAmerica 主持人 Eliot Terrett 报道，美国证券交易委员会（SEC）主席提名人保罗-阿特金斯（Paul Atkins）以 51:45 的赞成票通过了美国参议院的投票。预计众议院将在未来几天内进行最终投票。https://coinness. com/news/1125357
+2025-04-10 00:35:12,083 - INFO - 📩 LINE 메시지 전송 성공: 📢 긴급 알림!
+
+🔹 원본: [SEC 위원장 후보 폴 앳킨스, 美 상원 본회의 표결 통과] 미국 증권거래위원회(SEC) 위원장 지명자 폴 앳킨스가 미국 상원 본회의 표결을 찬성 51:반대 45로 통과했다고 크립토인아메리카 진행자 엘리토어 테렛이 전했다. 향후 하원 최종 투표가 진행될 예정이다. https://coinness. com/news/1125357
+🔹 번역: [美国证券交易委员会（SEC）主席提名人保罗-阿特金斯（Paul Atkins）通过美国参议院投票]据 CryptoInAmerica 主持人 Eliot Terrett 报道，美国证券交易委员会（SEC）主席提名人保罗-阿特金斯（Paul Atkins）以 51:45 的赞成票通过了美国参议院的投票。预计众议院将在未来几天内进行最终投票。https://coinness. com/news/1125357
+2025-04-10 01:02:08,684 - INFO - 📩 수신된 메시지: [미 하원 금융위 디지털자산 소위원회, 크립토 시장 구조 법안 위한 청문회 개최] 미국 하원 금융서비스위원회 디지털자산 소위원회가 크립토 시장 구조 법안(Crypto Market-Structure Legislation)의 아이디어를 공유 및 논의하기 위한 청문회를 9일(현지시간) 진행했다. 코인데스크에 따르면 이날 하원 금융서비스위원회 디지털자산 소위원회 위원장 브라이언 스테일(Bryan Steil)은 청문회에 참석, "스테이블코인 법안은 트럼프 대통령의 첫번째 목표 중 하나로, 현재 순조롭게 진행되고 있다"며 "암호화폐 시장 구조 법안은 트럼프 암호화폐 정책의 후반부에 해당되는 것으로, 완전히 규제되는 미국 암호화폐 시장을 위한 법안"이라고 설명했다. 또한 하원 금융서비스위원회 위원장 프렌치 힐은 “위원회는 정부기관부터 업계 리더까지 다양한 이해관계자들과 협력해 시장 구조 법률을 더욱 정교하고 강화하기 위해 노력하고 있다. 이들의 의견을 반영한 입법 논의 초안을 발표할 것"이라고 말했다. https://coinness. com/news/1125358
+2025-04-10 01:02:08,686 - INFO - ✅ 필터링됨 - 메시지: [미 하원 금융위 디지털자산 소위원회, 크립토 시장 구조 법안 위한 청문회 개최] 미국 하원 금융서비스위원회 디지털자산 소위원회가 크립토 시장 구조 법안(Crypto Market-Structure Legislation)의 아이디어를 공유 및 논의하기 위한 청문회를 9일(현지시간) 진행했다. 코인데스크에 따르면 이날 하원 금융서비스위원회 디지털자산 소위원회 위원장 브라이언 스테일(Bryan Steil)은 청문회에 참석, "스테이블코인 법안은 트럼프 대통령의 첫번째 목표 중 하나로, 현재 순조롭게 진행되고 있다"며 "암호화폐 시장 구조 법안은 트럼프 암호화폐 정책의 후반부에 해당되는 것으로, 완전히 규제되는 미국 암호화폐 시장을 위한 법안"이라고 설명했다. 또한 하원 금융서비스위원회 위원장 프렌치 힐은 “위원회는 정부기관부터 업계 리더까지 다양한 이해관계자들과 협력해 시장 구조 법률을 더욱 정교하고 강화하기 위해 노력하고 있다. 이들의 의견을 반영한 입법 논의 초안을 발표할 것"이라고 말했다. https://coinness. com/news/1125358
+2025-04-10 01:02:08,687 - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2025-04-10 01:02:10,084 - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2025-04-10 01:02:10,084 - INFO - 📜 번역된 메시지: [美国众议院金融服务委员会数字资产小组委员会举行加密货币市场结构立法听证会】美国众议院金融服务委员会数字资产小组委员会于9日（当地时间）举行听证会，分享和讨论加密货币市场结构立法的想法。据CoinDesk报道，美国众议院金融服务委员会数字资产小组委员会主席布莱恩-斯蒂尔（Bryan Steil）出席了听证会，并解释说："稳定币立法是特朗普总统的首要目标之一，而且正在按部就班地进行。"他还表示："加密货币市场结构立法是特朗普加密货币政策的后半部分，也就是全面监管美国加密货币市场的法案。"众议院金融服务委员会主席弗伦奇-希尔（French Hill）补充说："委员会一直在与从政府机构到行业领导者等广泛的利益相关者合作，以进一步完善和加强市场结构立法。我们将发布一份反映他们意见的立法讨论稿。https://coinness. com/news/1125358
+2025-04-10 01:02:10,249 - INFO - 📩 LINE 메시지 전송 성공: 📢 긴급 알림!
+
+🔹 원본: [미 하원 금융위 디지털자산 소위원회, 크립토 시장 구조 법안 위한 청문회 개최] 미국 하원 금융서비스위원회 디지털자산 소위원회가 크립토 시장 구조 법안(Crypto Market-Structure Legislation)의 아이디어를 공유 및 논의하기 위한 청문회를 9일(현지시간) 진행했다. 코인데스크에 따르면 이날 하원 금융서비스위원회 디지털자산 소위원회 위원장 브라이언 스테일(Bryan Steil)은 청문회에 참석, "스테이블코인 법안은 트럼프 대통령의 첫번째 목표 중 하나로, 현재 순조롭게 진행되고 있다"며 "암호화폐 시장 구조 법안은 트럼프 암호화폐 정책의 후반부에 해당되는 것으로, 완전히 규제되는 미국 암호화폐 시장을 위한 법안"이라고 설명했다. 또한 하원 금융서비스위원회 위원장 프렌치 힐은 “위원회는 정부기관부터 업계 리더까지 다양한 이해관계자들과 협력해 시장 구조 법률을 더욱 정교하고 강화하기 위해 노력하고 있다. 이들의 의견을 반영한 입법 논의 초안을 발표할 것"이라고 말했다. https://coinness. com/news/1125358
+🔹 번역: [美国众议院金融服务委员会数字资产小组委员会举行加密货币市场结构立法听证会】美国众议院金融服务委员会数字资产小组委员会于9日（当地时间）举行听证会，分享和讨论加密货币市场结构立法的想法。据CoinDesk报道，美国众议院金融服务委员会数字资产小组委员会主席布莱恩-斯蒂尔（Bryan Steil）出席了听证会，并解释说："稳定币立法是特朗普总统的首要目标之一，而且正在按部就班地进行。"他还表示："加密货币市场结构立法是特朗普加密货币政策的后半部分，也就是全面监管美国加密货币市场的法案。"众议院金融服务委员会主席弗伦奇-希尔（French Hill）补充说："委员会一直在与从政府机构到行业领导者等广泛的利益相关者合作，以进一步完善和加强市场结构立法。我们将发布一份反映他们意见的立法讨论稿。https://coinness. com/news/1125358
+2025-04-10 01:02:10,251 - INFO - 📩 수신된 메시지: [BTC $78,000 상회] 코인니스 마켓 모니터링에 따르면 BTC가 78,000 달러를 상회했다. 바이낸스 USDT 마켓 기준 BTC는 78,028. 3달러에 거래되고 있다. https://coinness. com/news/1125359
+2025-04-10 01:02:10,251 - INFO - ✅ 필터링됨 - 메시지: [BTC $78,000 상회] 코인니스 마켓 모니터링에 따르면 BTC가 78,000 달러를 상회했다. 바이낸스 USDT 마켓 기준 BTC는 78,028. 3달러에 거래되고 있다. https://coinness. com/news/1125359
+2025-04-10 01:02:10,251 - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2025-04-10 01:02:10,669 - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2025-04-10 01:02:10,669 - INFO - 📜 번역된 메시지: [BTC突破78,000美元】根据Coinness市场监测，BTC已突破78,000美元。在 Binance USDT 市场上，BTC 的交易价格为 78028 美元。https://coinness. com/news/1125359
+2025-04-10 01:02:10,799 - INFO - 📩 LINE 메시지 전송 성공: 📢 긴급 알림!
+
+🔹 원본: [BTC $78,000 상회] 코인니스 마켓 모니터링에 따르면 BTC가 78,000 달러를 상회했다. 바이낸스 USDT 마켓 기준 BTC는 78,028. 3달러에 거래되고 있다. https://coinness. com/news/1125359
+🔹 번역: [BTC突破78,000美元】根据Coinness市场监测，BTC已突破78,000美元。在 Binance USDT 市场上，BTC 的交易价格为 78028 美元。https://coinness. com/news/1125359
+2025-04-10 01:22:07,723 - INFO - 📩 수신된 메시지: [BTC, 지난 5분간 1. 68% 상승] BTC가 바이낸스 USDT 마켓 기준 지난 5분간 1. 68% 상승했다. 현재 BTC는 79,939. 99 달러에 거래되고 있다. https://coinness. com/news/1125361
+2025-04-10 01:22:07,724 - INFO - ✅ 필터링됨 - 메시지: [BTC, 지난 5분간 1. 68% 상승] BTC가 바이낸스 USDT 마켓 기준 지난 5분간 1. 68% 상승했다. 현재 BTC는 79,939. 99 달러에 거래되고 있다. https://coinness. com/news/1125361
+2025-04-10 01:22:07,724 - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2025-04-10 01:22:07,732 - INFO - Encountered a retryable-exception: Connection failed: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) 
+2025-04-10 01:22:07,733 - INFO - Starting retry 1 for request POST https://api-free.deepl.com/v2/translate after sleeping for 0.99 seconds. 
+2025-04-10 01:22:09,710 - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2025-04-10 01:22:09,711 - INFO - 📜 번역된 메시지: [BTC 在过去 5 分钟内上涨 1.68%]BTC 在 Binance USDT 市场过去 5 分钟内上涨 1.68%。BTC 目前的交易价格为 79,939 美元。https://coinness. com/news/1125361
+2025-04-10 01:22:09,927 - INFO - 📩 LINE 메시지 전송 성공: 📢 긴급 알림!
+
+🔹 원본: [BTC, 지난 5분간 1. 68% 상승] BTC가 바이낸스 USDT 마켓 기준 지난 5분간 1. 68% 상승했다. 현재 BTC는 79,939. 99 달러에 거래되고 있다. https://coinness. com/news/1125361
+🔹 번역: [BTC 在过去 5 分钟内上涨 1.68%]BTC 在 Binance USDT 市场过去 5 分钟内上涨 1.68%。BTC 目前的交易价格为 79,939 美元。https://coinness. com/news/1125361
+2025-04-10 01:38:25,995 - WARNING - Server sent a very old message with ID 7491365469956010005, ignoring (see FAQ for details)
+2025-04-10 01:38:26,104 - WARNING - Server sent a very old message with ID 7491365469956009997, ignoring (see FAQ for details)
+2025-04-10 01:38:26,106 - WARNING - Server sent a very old message with ID 7491365469956010001, ignoring (see FAQ for details)
+2025-04-10 01:38:26,159 - WARNING - Server sent a very old message with ID 7491365469956009993, ignoring (see FAQ for details)
+2025-04-10 01:38:26,160 - WARNING - Server sent a very old message with ID 7491365469956009989, ignoring (see FAQ for details)
+2025-04-10 01:38:26,161 - WARNING - Server sent a very old message with ID 7491365469956009985, ignoring (see FAQ for details)
+2025-04-10 01:38:26,161 - WARNING - Server sent a very old message with ID 7491365565623491593, ignoring (see FAQ for details)
+2025-04-10 01:38:26,162 - WARNING - Server sent a very old message with ID 7491365565623555073, ignoring (see FAQ for details)
+2025-04-10 01:38:26,162 - WARNING - Server sent a very old message with ID 7491365565757770753, ignoring (see FAQ for details)
+2025-04-10 01:38:26,163 - WARNING - Server sent a very old message with ID 7491365921935273985, ignoring (see FAQ for details)
+2025-04-10 01:38:26,163 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:38:26,163 - WARNING - Server sent a very old message with ID 7491365927016292353, ignoring (see FAQ for details)
+2025-04-10 01:38:26,164 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:38:26,164 - WARNING - Server sent a very old message with ID 7491365931488972801, ignoring (see FAQ for details)
+2025-04-10 01:38:26,164 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:38:26,167 - WARNING - Server sent a very old message with ID 7491365957659975681, ignoring (see FAQ for details)
+2025-04-10 01:38:26,167 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:38:26,167 - WARNING - Server sent a very old message with ID 7491365958198168577, ignoring (see FAQ for details)
+2025-04-10 01:38:26,167 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:38:26,167 - WARNING - Server sent a very old message with ID 7491365958412485633, ignoring (see FAQ for details)
+2025-04-10 01:38:26,168 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:38:26,168 - WARNING - Server sent a very old message with ID 7491365964943049729, ignoring (see FAQ for details)
+2025-04-10 01:38:26,168 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:38:26,168 - WARNING - Server sent a very old message with ID 7491365964943049733, ignoring (see FAQ for details)
+2025-04-10 01:38:26,169 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:38:26,169 - WARNING - Server sent a very old message with ID 7491365978189301761, ignoring (see FAQ for details)
+2025-04-10 01:38:26,169 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:38:26,169 - WARNING - Server sent a very old message with ID 7491365994516130817, ignoring (see FAQ for details)
+2025-04-10 01:38:26,169 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:38:26,169 - WARNING - Server sent a very old message with ID 7491366021053385729, ignoring (see FAQ for details)
+2025-04-10 01:38:26,169 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:38:26,214 - WARNING - Server sent a very old message with ID 7491366049498875905, ignoring (see FAQ for details)
+2025-04-10 01:38:26,214 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:38:26,817 - INFO - Got difference for channel 1386345244 updates
+2025-04-10 01:38:26,818 - INFO - 📩 수신된 메시지: [BTC $80,000 상회] 코인니스 마켓 모니터링에 따르면 BTC가 80,000 달러를 상회했다. 바이낸스 USDT 마켓 기준 BTC는 80,033. 8달러에 거래되고 있다. https://coinness. com/news/1125362
+2025-04-10 01:38:26,818 - INFO - ✅ 필터링됨 - 메시지: [BTC $80,000 상회] 코인니스 마켓 모니터링에 따르면 BTC가 80,000 달러를 상회했다. 바이낸스 USDT 마켓 기준 BTC는 80,033. 8달러에 거래되고 있다. https://coinness. com/news/1125362
+2025-04-10 01:38:26,818 - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2025-04-10 01:38:26,829 - INFO - Encountered a retryable-exception: Connection failed: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) 
+2025-04-10 01:38:26,829 - INFO - Starting retry 1 for request POST https://api-free.deepl.com/v2/translate after sleeping for 0.99 seconds. 
+2025-04-10 01:38:28,805 - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2025-04-10 01:38:28,806 - INFO - 📜 번역된 메시지: [BTC 突破 80000 美元] 根据 Coinness Market Monitor 的数据，BTC 已突破 80000 美元。BTC 在 Binance USDT 市场的交易价格为 80,033.https://coinness. com/news/1125362
+2025-04-10 01:38:29,235 - INFO - 📩 LINE 메시지 전송 성공: 📢 긴급 알림!
+
+🔹 원본: [BTC $80,000 상회] 코인니스 마켓 모니터링에 따르면 BTC가 80,000 달러를 상회했다. 바이낸스 USDT 마켓 기준 BTC는 80,033. 8달러에 거래되고 있다. https://coinness. com/news/1125362
+🔹 번역: [BTC 突破 80000 美元] 根据 Coinness Market Monitor 的数据，BTC 已突破 80000 美元。BTC 在 Binance USDT 市场的交易价格为 80,033.https://coinness. com/news/1125362
+2025-04-10 01:38:29,236 - INFO - 📩 수신된 메시지: [BTC, 지난 5분간 3. 44% 상승] BTC가 바이낸스 USDT 마켓 기준 지난 5분간 3. 44% 상승했다. 현재 BTC는 80,512. 73 달러에 거래되고 있다. https://coinness. com/news/1125363
+2025-04-10 01:38:29,236 - INFO - ✅ 필터링됨 - 메시지: [BTC, 지난 5분간 3. 44% 상승] BTC가 바이낸스 USDT 마켓 기준 지난 5분간 3. 44% 상승했다. 현재 BTC는 80,512. 73 달러에 거래되고 있다. https://coinness. com/news/1125363
+2025-04-10 01:38:29,236 - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2025-04-10 01:38:29,688 - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2025-04-10 01:38:29,688 - INFO - 📜 번역된 메시지: [BTC 在过去 5 分钟内上涨了 3.44%]BTC 在 Binance USDT 市场的过去 5 分钟内上涨了 3.44%。BTC 目前的交易价格为 80,512 美元。https://coinness. com/news/1125363
+2025-04-10 01:38:29,884 - INFO - 📩 LINE 메시지 전송 성공: 📢 긴급 알림!
+
+🔹 원본: [BTC, 지난 5분간 3. 44% 상승] BTC가 바이낸스 USDT 마켓 기준 지난 5분간 3. 44% 상승했다. 현재 BTC는 80,512. 73 달러에 거래되고 있다. https://coinness. com/news/1125363
+🔹 번역: [BTC 在过去 5 分钟内上涨了 3.44%]BTC 在 Binance USDT 市场的过去 5 分钟内上涨了 3.44%。BTC 目前的交易价格为 80,512 美元。https://coinness. com/news/1125363
+2025-04-10 01:38:29,884 - INFO - 📩 수신된 메시지: [트럼프 "美관세에 보복않는 국가에 90일 상호관세 유예"] 연합뉴스에 따르면, 도널드 트럼프 미국 대통령이 미국 관세에 보복하지 않는 국가에 90일 관세 동결을 승인하고 상호 관세율을 10%로 적용하겠다고 말했다. 이번 관세 동결 국가에 중국은 제외됐으며, 중국에는 125% 관세율이 적용된다. https://coinness. com/news/1125364 원문보기: https://www. yna. co. kr/view/AKR20250410003500071
+2025-04-10 01:38:29,884 - INFO - ❌ 필터링되지 않음
+2025-04-10 01:38:29,884 - INFO - 📩 수신된 메시지: [지난 1시간 1. 17억 달러 규모 선물 포지션 강제 청산] 주요 거래소에서 지난 1시간 1. 17억 달러 규모의 선물 포지션이 강제 청산됐다. 24시간 기준으로는 4. 78억 달러 규모의 선물 포지션이 강제 청산됐다. https://coinness. com/news/1125365
+2025-04-10 01:38:29,885 - INFO - ✅ 필터링됨 - 메시지: [지난 1시간 1. 17억 달러 규모 선물 포지션 강제 청산] 주요 거래소에서 지난 1시간 1. 17억 달러 규모의 선물 포지션이 강제 청산됐다. 24시간 기준으로는 4. 78억 달러 규모의 선물 포지션이 강제 청산됐다. https://coinness. com/news/1125365
+2025-04-10 01:38:29,885 - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2025-04-10 01:38:30,379 - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2025-04-10 01:38:30,379 - INFO - 📜 번역된 메시지: [过去一小时内有 11.7 亿美元的期货头寸被平仓】过去一小时内，主要交易所有超过 11.7 亿美元的期货头寸被平仓。24 小时内，47.8 亿美元的期货头寸被平仓。https://coinness. com/news/1125365
+2025-04-10 01:38:30,494 - INFO - 📩 LINE 메시지 전송 성공: 📢 긴급 알림!
+
+🔹 원본: [지난 1시간 1. 17억 달러 규모 선물 포지션 강제 청산] 주요 거래소에서 지난 1시간 1. 17억 달러 규모의 선물 포지션이 강제 청산됐다. 24시간 기준으로는 4. 78억 달러 규모의 선물 포지션이 강제 청산됐다. https://coinness. com/news/1125365
+🔹 번역: [过去一小时内有 11.7 亿美元的期货头寸被平仓】过去一小时内，主要交易所有超过 11.7 亿美元的期货头寸被平仓。24 小时内，47.8 亿美元的期货头寸被平仓。https://coinness. com/news/1125365
+2025-04-10 01:38:30,495 - INFO - 📩 수신된 메시지: [BTC $81,000 상회] 코인니스 마켓 모니터링에 따르면 BTC가 81,000 달러를 상회했다. 바이낸스 USDT 마켓 기준 BTC는 81,006. 85달러에 거래되고 있다. https://coinness. com/news/1125366
+2025-04-10 01:38:30,495 - INFO - ✅ 필터링됨 - 메시지: [BTC $81,000 상회] 코인니스 마켓 모니터링에 따르면 BTC가 81,000 달러를 상회했다. 바이낸스 USDT 마켓 기준 BTC는 81,006. 85달러에 거래되고 있다. https://coinness. com/news/1125366
+2025-04-10 01:38:30,495 - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2025-04-10 01:38:31,009 - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2025-04-10 01:38:31,009 - INFO - 📜 번역된 메시지: [BTC 突破 81,000 美元】根据 Coinness Market Monitor 的数据，BTC 已突破 81,000 美元。在 Binance USDT 市场上，BTC 的交易价格为 81,006.85 美元。https://coinness. com/news/1125366
+2025-04-10 01:38:31,149 - INFO - 📩 LINE 메시지 전송 성공: 📢 긴급 알림!
+
+🔹 원본: [BTC $81,000 상회] 코인니스 마켓 모니터링에 따르면 BTC가 81,000 달러를 상회했다. 바이낸스 USDT 마켓 기준 BTC는 81,006. 85달러에 거래되고 있다. https://coinness. com/news/1125366
+🔹 번역: [BTC 突破 81,000 美元】根据 Coinness Market Monitor 的数据，BTC 已突破 81,000 美元。在 Binance USDT 市场上，BTC 的交易价格为 81,006.85 美元。https://coinness. com/news/1125366
+2025-04-10 01:38:31,149 - INFO - 📩 수신된 메시지: [FDUSD 발행사, 저스틴 선 명예훼손 혐의 소송 제기] 앞서 트론 설립자 저스틴 선이 홍콩 암호화폐 수탁기관이자 FDUSD 발행사인 퍼스트 디지털 트러스트(FDT)가 사실상 부실 상태라고 지적한 가운데, FDT가 저스틴 선을 명예훼손 혐의로 고발했다. 코인데스크에 따르면 명예훼손 소송의 첫 단계인 소환장은 지난주 말 제출됐으며, 이들 기업은 홍콩 고등법원에 저스틴 선의 추가 발언 금지 명령을 요청했다. 첫 법정 심리 날짜는 미확정 상태다. 이와 관련해 저스틴 선은 "어떠한 법적 절차든 환영한다"고 X를 통해 전했다. 앞서 저스틴 선이 FDT 자금 상환 능력에 대해 우려를 제기한 후 FDUSD가 하락, 디페깅이 발생했다. https://coinness. com/news/1125367 이전 관련 속보: https://coinness. com/news/1124989
+2025-04-10 01:38:31,149 - INFO - ✅ 필터링됨 - 메시지: [FDUSD 발행사, 저스틴 선 명예훼손 혐의 소송 제기] 앞서 트론 설립자 저스틴 선이 홍콩 암호화폐 수탁기관이자 FDUSD 발행사인 퍼스트 디지털 트러스트(FDT)가 사실상 부실 상태라고 지적한 가운데, FDT가 저스틴 선을 명예훼손 혐의로 고발했다. 코인데스크에 따르면 명예훼손 소송의 첫 단계인 소환장은 지난주 말 제출됐으며, 이들 기업은 홍콩 고등법원에 저스틴 선의 추가 발언 금지 명령을 요청했다. 첫 법정 심리 날짜는 미확정 상태다. 이와 관련해 저스틴 선은 "어떠한 법적 절차든 환영한다"고 X를 통해 전했다. 앞서 저스틴 선이 FDT 자금 상환 능력에 대해 우려를 제기한 후 FDUSD가 하락, 디페깅이 발생했다. https://coinness. com/news/1125367 이전 관련 속보: https://coinness. com/news/1124989
+2025-04-10 01:38:31,150 - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2025-04-10 01:38:31,963 - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2025-04-10 01:38:31,963 - INFO - 📜 번역된 메시지: [FDUSD发行商起诉孙正义诽谤】在Tron创始人孙正义此前暗示香港加密货币托管人和FDUSD发行商First Digital Trust（FDT）实际上已经破产之后，FDT已经起诉他诽谤。据 CoinDesk 报道，传票是诽谤诉讼的第一步，已于上周末提交，两家公司已要求香港高等法院发布禁令，禁止孙正义发表进一步言论。第一次庭审的日期尚未确定。对此，孙正义告诉 X，他 "欢迎任何法律诉讼"。此前，孙正义曾对 FDT 的还款能力表示担忧，这导致 FDUSD 下跌并被剥离。阅读全文：https://coinness. com/news/1125367 此前相关突发新闻：https://coinness. com/news/1124989
+2025-04-10 01:38:32,105 - INFO - 📩 LINE 메시지 전송 성공: 📢 긴급 알림!
+
+🔹 원본: [FDUSD 발행사, 저스틴 선 명예훼손 혐의 소송 제기] 앞서 트론 설립자 저스틴 선이 홍콩 암호화폐 수탁기관이자 FDUSD 발행사인 퍼스트 디지털 트러스트(FDT)가 사실상 부실 상태라고 지적한 가운데, FDT가 저스틴 선을 명예훼손 혐의로 고발했다. 코인데스크에 따르면 명예훼손 소송의 첫 단계인 소환장은 지난주 말 제출됐으며, 이들 기업은 홍콩 고등법원에 저스틴 선의 추가 발언 금지 명령을 요청했다. 첫 법정 심리 날짜는 미확정 상태다. 이와 관련해 저스틴 선은 "어떠한 법적 절차든 환영한다"고 X를 통해 전했다. 앞서 저스틴 선이 FDT 자금 상환 능력에 대해 우려를 제기한 후 FDUSD가 하락, 디페깅이 발생했다. https://coinness. com/news/1125367 이전 관련 속보: https://coinness. com/news/1124989
+🔹 번역: [FDUSD发行商起诉孙正义诽谤】在Tron创始人孙正义此前暗示香港加密货币托管人和FDUSD发行商First Digital Trust（FDT）实际上已经破产之后，FDT已经起诉他诽谤。据 CoinDesk 报道，传票是诽谤诉讼的第一步，已于上周末提交，两家公司已要求香港高等法院发布禁令，禁止孙正义发表进一步言论。第一次庭审的日期尚未确定。对此，孙正义告诉 X，他 "欢迎任何法律诉讼"。此前，孙正义曾对 FDT 的还款能力表示担忧，这导致 FDUSD 下跌并被剥离。阅读全文：https://coinness. com/news/1125367 此前相关突发新闻：https://coinness. com/news/1124989
+2025-04-10 01:38:32,105 - INFO - 📩 수신된 메시지: [美 나스닥 지수 장중 9%대 상승] 미국 증시 나스닥 지수의 장중 상승폭이 9. 32%까지 확대됐다. 현재 S&P 500지수는 7. 46%, 다우 지수는 6. 62% 상승세를 보이고 있다. https://coinness. com/news/1125368
+2025-04-10 01:38:32,105 - INFO - ❌ 필터링되지 않음
+2025-04-10 01:54:06,031 - WARNING - Server sent a very old message with ID 7491370026609419265, ignoring (see FAQ for details)
+2025-04-10 01:54:06,140 - WARNING - Server sent a very old message with ID 7491370026609419273, ignoring (see FAQ for details)
+2025-04-10 01:54:06,142 - WARNING - Server sent a very old message with ID 7491370026609419269, ignoring (see FAQ for details)
+2025-04-10 01:54:06,195 - WARNING - Server sent a very old message with ID 7491370026658537473, ignoring (see FAQ for details)
+2025-04-10 01:54:06,196 - WARNING - Server sent a very old message with ID 7491370034278117377, ignoring (see FAQ for details)
+2025-04-10 01:54:06,196 - WARNING - Server sent a very old message with ID 7491370091496133633, ignoring (see FAQ for details)
+2025-04-10 01:54:06,197 - WARNING - Server sent a very old message with ID 7491370107317558273, ignoring (see FAQ for details)
+2025-04-10 01:54:06,197 - WARNING - Server sent a very old message with ID 7491370112966981633, ignoring (see FAQ for details)
+2025-04-10 01:54:06,198 - WARNING - Server sent a very old message with ID 7491371859712959501, ignoring (see FAQ for details)
+2025-04-10 01:54:06,199 - WARNING - Server sent a very old message with ID 7491371859712959509, ignoring (see FAQ for details)
+2025-04-10 01:54:06,199 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:54:06,199 - WARNING - Server sent a very old message with ID 7491371859712959513, ignoring (see FAQ for details)
+2025-04-10 01:54:06,200 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:54:06,200 - WARNING - Server sent a very old message with ID 7491371859712959517, ignoring (see FAQ for details)
+2025-04-10 01:54:06,200 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:54:06,203 - WARNING - Server sent a very old message with ID 7491371859712959489, ignoring (see FAQ for details)
+2025-04-10 01:54:06,203 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:54:06,204 - WARNING - Server sent a very old message with ID 7491371859712959493, ignoring (see FAQ for details)
+2025-04-10 01:54:06,204 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:54:06,251 - WARNING - Server sent a very old message with ID 7491371859712959497, ignoring (see FAQ for details)
+2025-04-10 01:54:06,251 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 01:54:06,252 - WARNING - Server sent a very old message with ID 7491371859712959505, ignoring (see FAQ for details)
+2025-04-10 01:54:06,252 - WARNING - Security error while unpacking a received message: Too many messages had to be ignored consecutively
+2025-04-10 02:25:36,425 - INFO - Closing current connection to begin reconnect...
+2025-04-10 02:25:36,427 - INFO - Connecting to 91.108.56.178:443/TcpFull...
+2025-04-10 02:25:36,484 - INFO - Connection to 91.108.56.178:443/TcpFull complete!
+2025-04-10 02:25:36,542 - WARNING - Server resent the older message 7491381328224939009, ignoring
+2025-04-10 03:29:41,895 - INFO - Disconnecting from 91.108.56.178:443/TcpFull...
+2025-04-10 03:29:41,901 - INFO - Disconnection from 91.108.56.178:443/TcpFull complete!
+2025-04-10 03:29:41,907 - INFO - Not disconnecting (already have no connection)
+2025-04-10 03:29:44,264 - INFO - Connecting to 91.108.56.178:443/TcpFull...
+2025-04-10 03:29:44,318 - INFO - Connection to 91.108.56.178:443/TcpFull complete!
+2025-04-10 03:29:44,637 - INFO - 🚀 클라이언트 실행 중... 메시지를 기다리는 중...
+2025-04-10 03:33:28,786 - INFO - Disconnecting from 91.108.56.178:443/TcpFull...
+2025-04-10 03:33:28,789 - INFO - Disconnection from 91.108.56.178:443/TcpFull complete!
+2025-04-10 03:33:28,794 - INFO - Not disconnecting (already have no connection)
+2025-04-10 03:33:45,548 - INFO - Connecting to 91.108.56.178:443/TcpFull...
+2025-04-10 03:33:45,599 - INFO - Connection to 91.108.56.178:443/TcpFull complete!
+2025-04-10 03:33:45,909 - INFO - 🚀 클라이언트 실행 중... 메시지를 기다리는 중...
+2025-04-10 03:43:11,145 - INFO - Disconnecting from 91.108.56.178:443/TcpFull...
+2025-04-10 03:43:11,149 - INFO - Disconnection from 91.108.56.178:443/TcpFull complete!
+2025-04-10 03:43:11,154 - INFO - Not disconnecting (already have no connection)
+2025-04-10 03:44:23,894 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-10 03:44:26,087 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-10 03:44:33,556 - INFO - Phone migrated to 5
+2025-04-10 03:44:33,881 - INFO - Reconnecting to new data center 5
+2025-04-10 03:44:34,259 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-10 03:44:34,260 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-10 03:44:34,261 - INFO - Connecting to 91.108.56.178:443/TcpFull...
+2025-04-10 03:44:35,644 - INFO - Connection to 91.108.56.178:443/TcpFull complete!
+2025-04-10 03:44:47,442 - INFO - 🚀 클라이언트 실행 중... 메시지를 기다리는 중...

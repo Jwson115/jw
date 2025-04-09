@@ -1,0 +1,56 @@
+2025-04-09 23:50:03,069 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 23:50:06,759 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 23:50:15,501 - INFO - Phone migrated to 5
+2025-04-09 23:50:15,741 - INFO - Reconnecting to new data center 5
+2025-04-09 23:50:15,995 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-09 23:50:16,002 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-09 23:50:16,003 - INFO - Connecting to 91.108.56.178:443/TcpFull...
+2025-04-09 23:50:31,961 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-8' coro=<Connection._send_loop() running at /opt/homebrew/lib/python3.13/site-packages/telethon/network/connection/connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-04-09 23:50:31,962 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-9' coro=<Connection._recv_loop() running at /opt/homebrew/lib/python3.13/site-packages/telethon/network/connection/connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-04-09 23:50:39,313 - INFO - Connecting to 91.108.56.178:443/TcpFull...
+2025-04-09 23:50:40,695 - INFO - Connection to 91.108.56.178:443/TcpFull complete!
+2025-04-09 23:50:59,371 - INFO - Connecting to 91.108.56.178:443/TcpFull...
+2025-04-09 23:50:59,435 - INFO - Connection to 91.108.56.178:443/TcpFull complete!
+2025-04-09 23:51:15,073 - INFO - Connecting to 91.108.56.178:443/TcpFull...
+2025-04-09 23:51:15,133 - INFO - Connection to 91.108.56.178:443/TcpFull complete!
+2025-04-09 23:51:32,571 - INFO - Connecting to 91.108.56.178:443/TcpFull...
+2025-04-09 23:51:32,632 - INFO - Connection to 91.108.56.178:443/TcpFull complete!
+2025-04-09 23:51:54,807 - INFO - 📩 채널 ID: 7933297392 - 메시지: ㅁ
+2025-04-09 23:51:57,167 - INFO - 📩 채널 ID: 52504489 - 메시지: ㄴ
+2025-04-09 23:51:57,518 - INFO - 📩 채널 ID: 52504489 - 메시지: Id: 8043829756
+First: Zwjw
+Lang: en
+2025-04-09 23:57:08,356 - INFO - Disconnecting from 91.108.56.178:443/TcpFull...
+2025-04-09 23:57:08,358 - INFO - Disconnection from 91.108.56.178:443/TcpFull complete!
+2025-04-09 23:57:08,362 - INFO - Not disconnecting (already have no connection)
+2025-04-09 23:57:34,476 - INFO - Connecting to 91.108.56.178:443/TcpFull...
+2025-04-09 23:57:34,532 - INFO - Connection to 91.108.56.178:443/TcpFull complete!
+2025-04-09 23:57:47,152 - INFO - 📩 채널 ID: 52504489 - 메시지: ㄴ
+2025-04-09 23:57:47,490 - INFO - 📩 채널 ID: 52504489 - 메시지: Id: 8043829756
+First: Zwjw
+Lang: ko
+2025-04-09 23:58:22,875 - INFO - 📩 채널 ID: 7933297392 - 메시지: ㅇ
+2025-04-09 23:59:34,967 - INFO - 📩 채널 ID: -1001363666182 - 메시지: 암호화폐 시장, 무역전쟁 격화 속 추가 하락 우려⋯ “금리 인하시 반등 기대감도 있어”
+#BTC #비트코인
+https://www.blockmedia.co.kr/archives/887183?utm_source=telegram&utm_medium=social
+2025-04-09 23:59:53,633 - INFO - Disconnecting from 91.108.56.178:443/TcpFull...
+2025-04-09 23:59:53,634 - INFO - Disconnection from 91.108.56.178:443/TcpFull complete!
+2025-04-09 23:59:53,635 - INFO - Not disconnecting (already have no connection)
+2025-04-10 00:16:07,753 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-10 00:16:10,048 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-10 00:16:19,472 - INFO - Phone migrated to 5
+2025-04-10 00:16:19,732 - INFO - Reconnecting to new data center 5
+2025-04-10 00:16:19,985 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-10 00:16:19,986 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-10 00:16:19,986 - INFO - Connecting to 91.108.56.178:443/TcpFull...
+2025-04-10 00:16:21,350 - INFO - Connection to 91.108.56.178:443/TcpFull complete!
+2025-04-10 00:17:06,000 - INFO - 📩 채널 ID: 7933297392 - 메시지: .
+2025-04-10 00:17:13,989 - INFO - 📩 채널 ID: 52504489 - 메시지: .
+2025-04-10 00:17:14,382 - INFO - 📩 채널 ID: 52504489 - 메시지: Id: 8043829756
+First: Zwjw
+Lang: en
+2025-04-10 00:18:40,502 - INFO - Disconnecting from 91.108.56.178:443/TcpFull...
+2025-04-10 00:18:40,505 - INFO - Disconnection from 91.108.56.178:443/TcpFull complete!
+2025-04-10 00:18:40,509 - INFO - Not disconnecting (already have no connection)
